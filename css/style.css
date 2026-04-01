@@ -34,3 +34,8 @@ footer {
  text-align: center;
  color: #666;
 }
+
+.product h3 { 
+    font-size: 1.1em; 
+    margin-bottom: 5px; 
+}
